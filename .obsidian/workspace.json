@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "fa67c26e0ed9a2c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6747229b98b4cf26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b27450f5584d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "program pbo kelompok 1-7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "628e2093946d5902",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bfd8133e64cbf40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5af4f7194ae260",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c1911d0ceb7e3ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3137ee5c78a4f618",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "424bbfc7c84214e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "608ceff766f53fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "291a8c31c70335be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "program pbo kelompok 1-7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cea913884e45c76b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "program pbo kelompok 1-7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e09bef3754d589f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0748f69a6991ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "program pbo kelompok 1-7.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false
+    }
+  },
+  "active": "37b27450f5584d30",
+  "lastOpenFiles": [
+    "program pbo kelompok 1-7.md"
+  ]
+}
